@@ -6,6 +6,7 @@ class LearningGit
         int b=15;
 
         System.out.println(a+b);
+        System.out.println("Made some changes to HelloGit.java");
     }
 
 }
